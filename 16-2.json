@@ -5,28 +5,28 @@
         {
           "name": "Английский",
           "aud": "148 ПР",
-          "pair_type": 1,
+          "pairType": 1,
           "start": "8:00",
           "end": "9:30"
         },
         {
           "name": "Матан",
           "aud": "A305 ПР",
-          "pair_type": 1,
+          "pairType": 1,
           "start": "9:40",
           "end": "11:10"
         },
         {
           "name": "Философия",
           "aud": "131 ЛК",
-          "pair_type": 0,
+          "pairType": 0,
           "start": "11:30",
           "end": "13:00"
         },
         {
           "name": "Дискретка",
           "aud": "147 ПР",
-          "pair_type": 1,
+          "pairType": 1,
           "start": "13:10",
           "end": "14:40"
         }
@@ -37,28 +37,28 @@
         {
           "name": "Алгебра",
           "aud": "147 ПР",
-          "pair_type": 1,
+          "pairType": 1,
           "start": "8:00",
           "end": "9:30"
         },
         {
           "name": "ОП",
           "aud": "107/3 ПР",
-          "pair_type": 1,
+          "pairType": 1,
           "start": "9:40",
           "end": "11:10"
         },
         {
           "name": "Матан",
           "aud": "105 ПР",
-          "pair_type": 1,
+          "pairType": 1,
           "start": "11:30",
           "end": "13:00"
         },
         {
           "name": "ОП",
           "aud": "А305 ЛК",
-          "pair_type": 0,
+          "pairType": 0,
           "start": "13:10",
           "end": "14:40"
         }
@@ -72,14 +72,14 @@
         {
           "name": "Алгебра",
           "aud": "А305 ЛК",
-          "pair_type": 0,
+          "pairType": 0,
           "start": "9:40",
           "end": "11:10"
         },
         {
           "name": "Матан",
           "aud": "107/1 ПР",
-          "pair_type": 1,
+          "pairType": 1,
           "start": "11:30",
           "end": "13:00"
         }
@@ -90,14 +90,14 @@
         {
           "name": "ОВС",
           "aud": "131 ЛК",
-          "pair_type": 0,
+          "pairType": 0,
           "start": "8:00",
           "end": "9:30"
         },
         {
           "name": "Английский",
           "aud": "149 ПР",
-          "pair_type": 1,
+          "pairType": 1,
           "start": "9:40",
           "end": "11:10"
         }
@@ -108,21 +108,21 @@
         {
           "name": "Дискретка",
           "aud": "147 ПР",
-          "pair_type": 1,
+          "pairType": 1,
           "start": "8:00",
           "end": "9:30"
         },
         {
           "name": "Дискретка",
           "aud": "А307 ЛК",
-          "pair_type": 0,
+          "pairType": 0,
           "start": "9:40",
           "end": "11:10"
         },
         {
           "name": "ОВС",
           "aud": "131 ЛК",
-          "pair_type": 0,
+          "pairType": 0,
           "start": "11:30",
           "end": "13:00"
         }
@@ -136,28 +136,28 @@
         {
           "name": "Матан",
           "aud": "A305 ЛК",
-          "pair_type": 0,
+          "pairType": 0,
           "start": "9:40",
           "end": "11:10"
         },
         {
           "name": "Дискретка",
           "aud": "А305 ЛК",
-          "pair_type": 0,
+          "pairType": 0,
           "start": "11:30",
           "end": "13:00"
         },
         {
           "name": "ОП",
           "aud": "107/3 ПР",
-          "pair_type": 1,
+          "pairType": 1,
           "start": "13:10",
           "end": "14:40"
         },
         {
           "name": "Философия",
           "aud": "148 ПР",
-          "pair_type": 1,
+          "pairType": 1,
           "start": "15:00",
           "end": "16:30"
         }
@@ -168,28 +168,28 @@
         {
           "name": "ОВС",
           "aud": "102 ПР",
-          "pair_type": 1,
+          "pairType": 1,
           "start": "9:40",
           "end": "11:10"
         },
         {
           "name": "Матан",
           "aud": "105 ПР",
-          "pair_type": 1,
+          "pairType": 1,
           "start": "11:30",
           "end": "13:00"
         },
         {
           "name": "ОП",
           "aud": "А305 ЛК",
-          "pair_type": 0,
+          "pairType": 0,
           "start": "13:10",
           "end": "14:40"
         },
         {
           "name": "ОП",
           "aud": "107/3 ПР",
-          "pair_type": 1,
+          "pairType": 1,
           "start": "15:00",
           "end": "16:30"
         }
@@ -203,28 +203,28 @@
         {
           "name": "Алгебра",
           "aud": "А305 ЛК",
-          "pair_type": 0,
+          "pairType": 0,
           "start": "9:40",
           "end": "11:10"
         },
         {
           "name": "ОВС",
           "aud": "102 ПР",
-          "pair_type": 1,
+          "pairType": 1,
           "start": "11:30",
           "end": "13:00"
         },
         {
           "name": "Алгебра",
           "aud": "А512 ПР",
-          "pair_type": 1,
+          "pairType": 1,
           "start": "13:10",
           "end": "14:40"
         },
         {
           "name": "ОВС",
           "aud": "102 ПР",
-          "pair_type": 1,
+          "pairType": 1,
           "start": "15:00",
           "end": "16:30"
         }
@@ -235,21 +235,21 @@
         {
           "name": "ОВС",
           "aud": "131 ЛК",
-          "pair_type": 0,
+          "pairType": 0,
           "start": "8:00",
           "end": "9:30"
         },
         {
           "name": "ОП",
           "aud": "А307 ЛК",
-          "pair_type": 0,
+          "pairType": 0,
           "start": "9:40",
           "end": "11:10"
         },
         {
           "name": "ОП",
           "aud": "107/3 ПР",
-          "pair_type": 1,
+          "pairType": 1,
           "start": "11:30",
           "end": "13:00"
         }
@@ -260,14 +260,14 @@
         {
           "name": "Дискретка",
           "aud": "147 ПР",
-          "pair_type": 1,
+          "pairType": 1,
           "start": "8:00",
           "end": "9:30"
         },
         {
           "name": "Дискретка",
           "aud": "А307 ЛК",
-          "pair_type": 1,
+          "pairType": 1,
           "start": "9:40",
           "end": "11:10"
         }
