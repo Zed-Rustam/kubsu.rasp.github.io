@@ -1,1 +1,9 @@
-{"days": [{"pairs": []}, {"pairs": []}, {"pairs": []}, {"pairs": []}, {"pairs": []}, {"pairs": []}, {"pairs": []}, {"pairs": []}, {"pairs": []}, {"pairs": []}, {"pairs": []}, {"pairs": []}, {"pairs": []}, {"pairs": []}]}
+{"days": [{"pairs": [
+        {
+          "name": "Матан",
+          "aud": "A305",
+          "pairType": 0,
+          "start": "9:40",
+          "end": "11:10"
+        }
+]}, {"pairs": []}, {"pairs": []}, {"pairs": []}, {"pairs": []}, {"pairs": []}, {"pairs": []}, {"pairs": []}, {"pairs": []}, {"pairs": []}, {"pairs": []}, {"pairs": []}, {"pairs": []}, {"pairs": []}]}
