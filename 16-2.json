@@ -69,7 +69,7 @@
         {
           "name": "Физра",
           "aud": "Поле",
-          "pairType": 1,
+          "pairType": -1,
           "start": "8:00",
           "end": "9:30"
         }
@@ -208,7 +208,7 @@
         {
           "name": "Физра",
           "aud": "Поле",
-          "pairType": 1,
+          "pairType": -1,
           "start": "8:00",
           "end": "9:30"
         }
