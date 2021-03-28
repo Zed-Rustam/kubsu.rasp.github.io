@@ -12,7 +12,7 @@
         {
           "name": "Матан",
           "aud": "A305",
-          "pairType": 1,
+          "pairType": 0,
           "start": "9:40",
           "end": "11:10"
         },
